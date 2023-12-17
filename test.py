@@ -1,1 +1,1 @@
-print("Python")
+print("Hello DICT!")
